@@ -1,0 +1,7 @@
+*.zip
+*.tar
+*.tar.gz
+/bin
+/pkg
+/src/github.com
+/src/golang.org
